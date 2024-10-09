@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/duncan areri" target="blank"><img src="https://img.shields.io/twitter/follow/duncan areri?logo=twitter&style=for-the-badge" alt="duncan areri" /></a> </p>
 
-- 🔭 I’m currently working on **BoinaCoin**
+- 🔭 I’m currently working on **EcoGreen**
 
 - 🌱 I’m currently learning **React and NextJs**
 
